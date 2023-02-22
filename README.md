@@ -7,7 +7,11 @@
 - Decorator
 - Adapter
 - DI
-- MVP
+- Clean Swift
+
+## L1M7 Home Work
+
+- Переход от использования MVP к Clean Swift.
 
 ## L1M6 Home Work
 
@@ -17,12 +21,12 @@
 
 ```
 cd ~/Developer
-git clone https://github.com/some/TodoList.git
+git clone https://github.com/ABGitRu/TodoList.git
 cd ./TodoList
 xed .
 ```
 ## Features
-
+- Возможность входа на экран списка задач через авторизацию пользователя
 - Отображение списка задач с разбиением на секции по критерию выполненности.
 - Поддержка двух типов задач: обычных и важных.
 - У важных задач есть 3 варианта приоритета: высокий, средний и низкий.
