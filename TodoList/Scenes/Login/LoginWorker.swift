@@ -12,7 +12,6 @@
 
 import UIKit
 
-// TODO: - ДОБАВИТЬ ЛОГИН А ПАРОЛЬ
 
 /// Работник для экрана логина
 class LoginWorker {
